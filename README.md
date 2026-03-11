@@ -12,7 +12,7 @@ Olá! Sou **Hebert Lopes**, um profissional apaixonado por cibersegurança com f
 - 🔹 **Ferramentas:** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, Nessus, OpenVAS, Watchguard, Wazuh.
 - 🔹 **Linguagens de Script:** Python, Bash.
 - 🔹 **Redes:** DNS, Autenticação, Rede Fibra GPON, FTTH, Análise de Tráfego e Monitoramento de Links.
-- 🔹 **Sistemas:** Windows Server (Gerenciamento de Usuários), Kali Linux, Parrot OS, Ubunto.
+- 🔹 **Sistemas:** Windows Server (Gerenciamento de Usuários), Kali Linux, Parrot OS, Ubuntu.
 
 ## 💼 Experiência Profissional
 
