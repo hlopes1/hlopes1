@@ -8,11 +8,11 @@ Olá! Sou **Hebert Lopes**, um profissional apaixonado por cibersegurança com f
 
 ## 🔥 Habilidades & Ferramentas
 
-- 🔹 **Offensive Security:** Testes de Penetração, Análise de Vulnerabilidades, Exploração, Red Teaming, Engenharia Social, Investigação de Incidentes de Segurança, Análise Forense Digital.
-- 🔹 **Ferramentas:** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, Nessus, OpenVAS, Watchguard, Wazuh.
-- 🔹 **Linguagens de Script:** Python, Bash.
-- 🔹 **Redes:** DNS, Autenticação, Rede Fibra GPON, FTTH, Análise de Tráfego e Monitoramento de Links.
-- 🔹 **Sistemas:** Windows Server (Gerenciamento de Usuários), Kali Linux, Parrot OS, Ubuntu.
+🔹 **Offensive Security:** Testes de Penetração, Análise de Vulnerabilidades, Exploração, Red Teaming, Engenharia Social, Investigação de Incidentes de Segurança, Análise Forense Digital.  
+🔹 **Ferramentas:** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, Nessus, OpenVAS, Watchguard, Wazuh.  
+🔹 **Linguagens de Script:** Python, Bash.  
+🔹 **Redes:** DNS, Autenticação, Rede Fibra GPON, FTTH, Análise de Tráfego e Monitoramento de Links.  
+🔹 **Sistemas:** Windows Server (Gerenciamento de Usuários), Kali Linux, Parrot OS, Ubuntu.  
 
 ## 💼 Experiência Profissional
 
@@ -78,38 +78,38 @@ Além das plataformas acima, acompanho e utilizo as seguintes referências globa
 
 ### **1. Análise de Vulnerabilidades**
 
-> **Título:** Análise Proativa de Vulnerabilidades em Ambientes Corporativos
-> **Descrição:** Condução de análises detalhadas de vulnerabilidades em infraestruturas de rede, aplicações web e sistemas operacionais, utilizando ferramentas automatizadas e técnicas manuais. O objetivo foi identificar e classificar falhas de segurança, fornecendo relatórios acionáveis com recomendações de remediação para fortalecer a postura de segurança dos clientes.
-> **Resultados:** Descoberta de diversas vulnerabilidades críticas/altas, resultando na implementação de patches e configurações de segurança que reduziram a superfície de ataque.
-> **Tecnologias/Ferramentas:** Nessus, OpenVAS, Nmap, Burp Suite, OWASP ZAP.
+> **Título:** Análise Proativa de Vulnerabilidades em Ambientes Corporativos  
+> **Descrição:** Condução de análises detalhadas de vulnerabilidades em infraestruturas de rede, aplicações web e sistemas operacionais, utilizando ferramentas automatizadas e técnicas manuais. O objetivo foi identificar e classificar falhas de segurança, fornecendo relatórios acionáveis com recomendações de remediação para fortalecer a postura de segurança dos clientes.  
+> **Resultados:** Descoberta de diversas vulnerabilidades críticas/altas, resultando na implementação de patches e configurações de segurança que reduziram a superfície de ataque.  
+> **Tecnologias/Ferramentas:** Nessus, OpenVAS, Nmap, Burp Suite, OWASP ZAP.  
 
 ### **2. Simulação de Engenharia Social**
 
-> **Título:** Campanhas de Simulação de Engenharia Social para Conscientização
-> **Descrição:** Desenvolvimento e execução de campanhas controladas de phishing, vishing e pretexting para avaliar a resiliência humana contra ataques de engenharia social. O foco foi medir a taxa de sucesso dos ataques simulados e, posteriormente, educar os colaboradores sobre as melhores práticas de segurança, transformando-os em uma linha de defesa eficaz.
-> **Resultados:** Identificação de lacunas na conscientização de segurança, seguida por treinamentos que reduziram a taxa de cliques em links maliciosos.
-> **Técnicas:** Phishing (e-mail), Vishing (telefone), Pretexting, OSINT para coleta de informações.
+> **Título:** Campanhas de Simulação de Engenharia Social para Conscientização  
+> **Descrição:** Desenvolvimento e execução de campanhas controladas de phishing, vishing e pretexting para avaliar a resiliência humana contra ataques de engenharia social. O foco foi medir a taxa de sucesso dos ataques simulados e, posteriormente, educar os colaboradores sobre as melhores práticas de segurança, transformando-os em uma linha de defesa eficaz.  
+> **Resultados:** Identificação de lacunas na conscientização de segurança, seguida por treinamentos que reduziram a taxa de cliques em links maliciosos.  
+> **Técnicas:** Phishing (e-mail), Vishing (telefone), Pretexting, OSINT para coleta de informações.  
 
 ### **3. Assessoria de Segurança Cibernética**
 
-> **Título:** Assessoria Estratégica em Segurança Cibernética e Gestão de Riscos
-> **Descrição:** Prestação de consultoria especializada para organizações, auxiliando na formulação de políticas de segurança, implementação de controles e conformidade com regulamentações (LGPD, ISO 27001). A assessoria incluiu a avaliação de riscos, desenvolvimento de planos de resposta a incidentes e orientação para a adoção de arquiteturas de segurança robustas.
-> **Resultados:** Melhoria da conformidade regulatória, redução de riscos operacionais e fortalecimento da governança de segurança, com a implementação de um plano de resposta a incidentes.
-> **Áreas de Atuação:** Governança de Segurança, Conformidade, Gestão de Riscos, Desenvolvimento de Políticas.
+> **Título:** Assessoria Estratégica em Segurança Cibernética e Gestão de Riscos  
+> **Descrição:** Prestação de consultoria especializada para organizações, auxiliando na formulação de políticas de segurança, implementação de controles e conformidade com regulamentações (LGPD, ISO 27001). A assessoria incluiu a avaliação de riscos, desenvolvimento de planos de resposta a incidentes e orientação para a adoção de arquiteturas de segurança robustas.  
+> **Resultados:** Melhoria da conformidade regulatória, redução de riscos operacionais e fortalecimento da governança de segurança, com a implementação de um plano de resposta a incidentes.  
+> **Áreas de Atuação:** Governança de Segurança, Conformidade, Gestão de Riscos, Desenvolvimento de Políticas.  
 
 ### **4. Testes de Penetração (Pentest)**
 
-> **Título:** Testes de Penetração Abrangentes (Web, Mobile, Infraestrutura)
-> **Descrição:** Execução de testes de penetração white-box, gray-box e black-box em diversas plataformas, incluindo aplicações web, mobile e infraestruturas de rede. O processo envolveu a exploração ativa de vulnerabilidades para demonstrar o impacto real de um ataque, culminando em relatórios detalhados com provas de conceito e recomendações de mitigação.
-> **Resultados:** Identificação e exploração bem-sucedida de vulnerabilidades críticas, como injeção SQL, XSS e falhas de autenticação, permitindo que as equipes de desenvolvimento e infraestrutura corrigissem as falhas antes que fossem exploradas por agentes maliciosos.
-> **Metodologias:** OWASP Top 10, PTES (Penetration Testing Execution Standard).
+> **Título:** Testes de Penetração Abrangentes (Web, Mobile, Infraestrutura)  
+> **Descrição:** Execução de testes de penetração white-box, gray-box e black-box em diversas plataformas, incluindo aplicações web, mobile e infraestruturas de rede. O processo envolveu a exploração ativa de vulnerabilidades para demonstrar o impacto real de um ataque, culminando em relatórios detalhados com provas de conceito e recomendações de mitigação.  
+> **Resultados:** Identificação e exploração bem-sucedida de vulnerabilidades críticas, como injeção SQL, XSS e falhas de autenticação, permitindo que as equipes de desenvolvimento e infraestrutura corrigissem as falhas antes que fossem exploradas por agentes maliciosos.  
+> **Metodologias:** OWASP Top 10, PTES (Penetration Testing Execution Standard).  
 
 ### **5. Elaboração de Lab para Exploração de Vulnerabilidades**
 
-> **Título:** Desenvolvimento de Laboratório Virtual para Treinamento e Pesquisa em Exploração de Vulnerabilidades
-> **Descrição:** Criação e configuração de ambientes de laboratório isolados, contendo sistemas e aplicações intencionalmente vulneráveis. Este lab foi utilizado para simular cenários de ataque realistas, permitindo o aprimoramento de habilidades em exploração de vulnerabilidades, desenvolvimento de exploits e validação de técnicas de defesa, tanto para fins de treinamento interno quanto para pesquisa pessoal.
-> **Resultados:** Ambiente seguro para prática de técnicas de hacking ético, facilitando o aprendizado contínuo e a experimentação com novas ferramentas e metodologias de ataque e defesa.
-> **Tecnologias:** Virtualização (VMware/VirtualBox), Docker, Metasploitable, DVWA, WebGoat, Active Directory Lab.
+> **Título:** Desenvolvimento de Laboratório Virtual para Treinamento e Pesquisa em Exploração de Vulnerabilidades  
+> **Descrição:** Criação e configuração de ambientes de laboratório isolados, contendo sistemas e aplicações intencionalmente vulneráveis. Este lab foi utilizado para simular cenários de ataque realistas, permitindo o aprimoramento de habilidades em exploração de vulnerabilidades, desenvolvimento de exploits e validação de técnicas de defesa, tanto para fins de treinamento interno quanto para pesquisa pessoal.  
+> **Resultados:** Ambiente seguro para prática de técnicas de hacking ético, facilitando o aprendizado contínuo e a experimentação com novas ferramentas e metodologias de ataque e defesa.  
+> **Tecnologias:** Virtualização (VMware/VirtualBox), Docker, Metasploitable, DVWA, WebGoat, Active Directory Lab.  
 
 ## 📬 Conecte-se Comigo
 
