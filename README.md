@@ -50,13 +50,15 @@ Olá! Sou **Hebert Lopes**, um profissional apaixonado por cibersegurança com f
 
 ### **Certificações Principais**
 
-- **Febraban Cyber Academy 2025**
-  *Laboratório de Segurança Cibernética da FEBRABAN*
-  *Carga Horária: 40 horas (01/07/2025 a 18/07/2025)*
+- **Febraban Cyber Academy 2025**  
+  *Laboratório de Segurança Cibernética da FEBRABAN*  
+  *Carga Horária: 40 horas (01/07/2025 a 18/07/2025)*  
+  [Certificado Aqui](https://github.com/hlopes1/hlopes1/blob/main/certificados/Certificado%20Febraban%20Cyber%20Academy%202025%20-%20Hebert%20Lopes.pdf)
 
-- **Bootcamp Santander - Cibersegurança 2025**
-  *DIO (Digital Innovation One)*
-  *Carga Horária: 31 horas (Concluído em 04/11/2025)*
+- **Bootcamp Santander - Cibersegurança 2025**  
+  *DIO (Digital Innovation One)*  
+  *Carga Horária: 31 horas (Concluído em 04/11/2025)*  
+  [Certificado Aqui](https://github.com/hlopes1/hlopes1/blob/main/certificados/Certificado%20Santander%20Cyberseguranca%20Bootcamp%202025%20-%20Hebert%20Lopes.pdf)
 
 ### **Plataformas de Treinamento Prático (Labs & CTFs)**
 
